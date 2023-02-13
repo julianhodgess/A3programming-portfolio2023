@@ -10,6 +10,16 @@ OOP graphical calculator using processing
 
 [Source Code](https://github.com/julianhodgess/A3programming-portfolio2023/tree/gh-pages/src/calc)
 
+### Space Game
+
+OOP graphical calculator using processing
+
+![Space Game](https://github.com/julianhodgess/A3programming-portfolio2023/blob/gh-pages/images/calc.png?raw=true)
+
+[Source Code](https://github.com/julianhodgess/A3programming-portfolio2023/tree/gh-pages/src/calc)
+
+
+
 ## Programming Semester 2 projects
 
 
