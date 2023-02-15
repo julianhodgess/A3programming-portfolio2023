@@ -22,7 +22,7 @@ OOP fully functional game made using processing
 
 OOP multiple shapes using processing
 
-![Shape Tester](https://github.com/julianhodgess/A3programming-portfolio2023/blob/gh-pages/images/spacegame.png)
+![Shape Tester](https://github.com/julianhodgess/A3programming-portfolio2023/blob/gh-pages/images/ShapeTester.png)
 
 [Source Code](https://github.com/julianhodgess/A3programming-portfolio2023/tree/gh-pages/src/spacegame)
 
