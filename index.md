@@ -1,6 +1,6 @@
 # Welcome to Julian Hodges Programming Portfolio
 
-## Programming Semester 1 Projects:
+## Programming Projects:
 
 ### Calculator
 
