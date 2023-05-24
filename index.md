@@ -46,7 +46,7 @@ OOP multiple shapes using processing
 
 ### Casino Python Game
 
-https://github.com/julianhodgess/A3programming-portfolio2023/blob/gh-pages/images/casinogame.png
+![casinogame](https://github.com/julianhodgess/A3programming-portfolio2023/blob/gh-pages/images/casinogame.png)
 
 [Source Code](https://github.com/julianhodgess/A3programming-portfolio2023/blob/gh-pages/src/pythonCasinoGame.pyde)
 
