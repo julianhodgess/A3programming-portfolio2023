@@ -1,6 +1,8 @@
 # Welcome to Julian Hodges Programming Portfolio
 
-## Programming Projects:
+# hodgesjulian48@gmail.com
+
+## Individual Programming Projects:
 
 ### Calculator
 
@@ -38,7 +40,9 @@ OOP multiple shapes using processing
 
 
 
-### Casino Group Project
+### Group Project
+
+### Casino Python Game
 
 <img width="1014" alt="Screen Shot 2023-05-24 at 11 36 22 AM" src="https://github.com/julianhodgess/A3programming-portfolio2023/assets/111790700/6cfe7ecc-9c3a-43f0-a19f-ffb85c15cff9">
 
